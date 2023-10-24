@@ -1,7 +1,7 @@
 # Polybar-config
 My polybar configuration files.
 
-## Styles:
+## Themes:
 - `default`:
 ![default](preview/default.png)
 
@@ -11,4 +11,4 @@ My polybar configuration files.
 - `minma`:
 ![minma](preview/minma.png)
 
-Style specific modules can be found in `./bars/modules`. Configure `./launch.sh` to change styles.
+Theme specific modules can be found in `./bars/modules`. Configure `./launch.sh` to change theme.
